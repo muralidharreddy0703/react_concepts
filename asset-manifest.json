@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/muralidharreddy0703/react_concepts/static/css/main.d1b05096.chunk.css",
+    "main.js": "/muralidharreddy0703/react_concepts/static/js/main.a265d4d9.chunk.js",
+    "main.js.map": "/muralidharreddy0703/react_concepts/static/js/main.a265d4d9.chunk.js.map",
+    "runtime-main.js": "/muralidharreddy0703/react_concepts/static/js/runtime-main.24c75a39.js",
+    "runtime-main.js.map": "/muralidharreddy0703/react_concepts/static/js/runtime-main.24c75a39.js.map",
+    "static/js/2.72d51086.chunk.js": "/muralidharreddy0703/react_concepts/static/js/2.72d51086.chunk.js",
+    "static/js/2.72d51086.chunk.js.map": "/muralidharreddy0703/react_concepts/static/js/2.72d51086.chunk.js.map",
+    "index.html": "/muralidharreddy0703/react_concepts/index.html",
+    "precache-manifest.fd7074cbc5e090681d5277c431ff2ba3.js": "/muralidharreddy0703/react_concepts/precache-manifest.fd7074cbc5e090681d5277c431ff2ba3.js",
+    "service-worker.js": "/muralidharreddy0703/react_concepts/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/muralidharreddy0703/react_concepts/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.72d51086.chunk.js.LICENSE.txt": "/muralidharreddy0703/react_concepts/static/js/2.72d51086.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/muralidharreddy0703/react_concepts/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.24c75a39.js",
+    "static/js/2.72d51086.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.a265d4d9.chunk.js"
+  ]
+}
