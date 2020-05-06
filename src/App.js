@@ -1,22 +1,25 @@
-import React from 'react';
-import logo from './logo.svg';
+import React, { Component} from 'react';
+//import logo from './logo.svg';
 import './App.css';
+import Person from './Person/Person';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-       
-         <h2>i am working as React.js developer</h2> 
-          Learn React
+class App extends Component {
+  render(){
+    return (
+      <div className="App">
+         
+           <h2>i am working as React.js developer</h2> 
+            Learn React
+           <Person name="Murali" age="25" />
+           <Person name="Uday" age="20" />
+           <Person name="Sushma" age="24"> MY JOB: SOFTWARE ENGINEER</Person>
+           <Person name="Swathi" age="23"/>
         
-      </header>
-    </div>
-  );
+      </div>
+    );
+
+  }
+  
 }
 
 export default App;
